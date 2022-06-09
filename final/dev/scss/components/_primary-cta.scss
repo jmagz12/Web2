@@ -1,0 +1,22 @@
+.primary-cta__section {
+	display: flex;
+	flex-direction: column;
+	@include md {
+		flex-direction: row;
+	}
+}
+.primary-cta {
+	width: 100%;
+	background-color: #e9d3da;
+	display: flex;
+	align-items: center;
+	padding: 24px;
+	justify-content: center;
+	@include md {
+		width: 100%;
+	}
+	@include lg {
+		width: 100%;
+	}
+}
+
