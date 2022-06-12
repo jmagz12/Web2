@@ -14,6 +14,39 @@
 		height: 686px;
 	}
 }
+.herohome {
+	background-image: url('../img/herohome.png');
+	background-position: center;
+	background-size: cover;
+	height: 262px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	@include md {
+		height: 515px;
+	}
+	@include lg {
+		height: 686px;
+	}
+}
+
+.heromap {
+	background-image: url('../img/map.png');
+	background-position: center;
+	background-size: cover;
+	height: 262px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	@include md {
+		height: 515px;
+	}
+	@include lg {
+		height: 686px;
+	}
+}
 
 .hero__heading {
 	color: $white;

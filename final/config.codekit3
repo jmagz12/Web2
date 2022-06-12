@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/deploy\/contactpage.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/contactpage.html",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -21,11 +29,32 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/facebook.png" : {
-      "ft" : 32768,
-      "iS" : 700,
+    "\/deploy\/homepage.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/facebook.png",
+      "oAP" : "\/deploy\/homepage.html",
+      "oF" : 0
+    },
+    "\/deploy\/img\/cafe.png" : {
+      "ft" : 32768,
+      "iS" : 179335,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/cafe.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/clock.png" : {
+      "ft" : 32768,
+      "iS" : 414,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/clock.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -47,6 +76,58 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/flora.png" : {
+      "ft" : 32768,
+      "iS" : 259316,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/flora.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/flower1.png" : {
+      "ft" : 32768,
+      "iS" : 294044,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/flower1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/flower2.png" : {
+      "ft" : 32768,
+      "iS" : 229918,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/flower2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/globe.png" : {
+      "ft" : 32768,
+      "iS" : 467,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/globe.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 1349544,
@@ -56,6 +137,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/herohome.png" : {
+      "ft" : 32768,
+      "iS" : 2062634,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/herohome.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/home.png" : {
+      "ft" : 32768,
+      "iS" : 319,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/home.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -125,6 +232,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/map-pin.png" : {
+      "ft" : 32768,
+      "iS" : 605,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/map-pin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/map.png" : {
+      "ft" : 32768,
+      "iS" : 682338,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/map.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/menu.png" : {
       "ft" : 32768,
       "iS" : 211,
@@ -138,11 +271,89 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/message-square.png" : {
+      "ft" : 32768,
+      "iS" : 228,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/message-square.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/ourstory.png" : {
+      "ft" : 32768,
+      "iS" : 257081,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/ourstory.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/plant1.png" : {
+      "ft" : 32768,
+      "iS" : 362679,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/plant1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/plant2.png" : {
+      "ft" : 32768,
+      "iS" : 350378,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/plant2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/play-circle.png" : {
       "ft" : 32768,
       "iS" : 2112,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/play-circle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/shop.png" : {
+      "ft" : 32768,
+      "iS" : 263088,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/shop.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/shopping-cart.png" : {
+      "ft" : 32768,
+      "iS" : 338,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/shopping-cart.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -190,27 +401,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/video.png" : {
-      "ft" : 32768,
-      "iS" : 58063,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/video.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 0
-    },
     "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -221,14 +411,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/deploy\/page.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/page.html",
-      "oF" : 0
     },
     "\/dev\/components\/article-grid.kit" : {
       "cB" : 0,
@@ -432,21 +614,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_article-grid.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/dev\/scss\/components\/_buttons.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
